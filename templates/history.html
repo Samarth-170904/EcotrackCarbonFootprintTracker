@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block title %}EcoTrack - Calculation History{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header">
+        <h1><i class="fas fa-history"></i> Your Calculation History</h1>
+        <p>Track your carbon footprint over time</p>
+    </div>
+    
+    <div class="card-body">
+        {% if calculations %}
+        <div style="margin-bottom: 2rem;">
+            {% set total_calculations = calculations|length %}
+            {% set total_kwh = calculations|sum(attribute='kwh_input') %}
+            {% set total_co2 = calculations|sum(attribute='co2_result') %}
+            {% set avg_kwh = (total_kwh / total_calculations)|round(2) %}
+            {% set avg_co2 = (total_co2 / total_calculations)|round(2) %}
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2rem;">
+                <div style="background: linear-gradient(135deg, #28a745, #20c997); color: white; padding: 1.5rem; border-radius: 15px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold;">{{ total_calculations }}</div>
+                    <div>Total Calculations</div>
+                </div>
+                <div style="background: linear-gradient(135deg, #17a2b8, #6f42c1); color: white; padding: 1.5rem; border-radius: 15px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold;">{{ avg_kwh }}</div>
+                    <div>Avg kWh/month</div>
+                </div>
+                <div style="background: linear-gradient(135deg, #fd7e14, #e83e8c); color: white; padding: 1.5rem; border-radius: 15px; text-align: center;">
+                    <div style="font-size: 2rem; font-weight: bold;">{{ avg_co2 }}</div>
+                    <div>Avg CO₂e/month</div>
+                </div>
+            </div>
+        </div>
+        
+        <div style="overflow-x: auto;">
+            <table style="width: 100%; border-collapse: collapse; background: white; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+                <thead>
+                    <tr style="background: linear-gradient(135deg, #28a745, #20c997); color: white;">
+                        <th style="padding: 1rem; text-align: left; font-weight: 600;">
+                            <i class="fas fa-bolt"></i> kWh Usage
+                        </th>
+                        <th style="padding: 1rem; text-align: left; font-weight: 600;">
+                            <i class="fas fa-leaf"></i> CO₂ Emission
+                        </th>
+                        <th style="padding: 1rem; text-align: left; font-weight: 600;">
+                            <i class="fas fa-calendar"></i> Date
+                        </th>
+                        <th style="padding: 1rem; text-align: left; font-weight: 600;">
+                            <i class="fas fa-tree"></i> Trees Needed
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for calc in calculations %}
+                    <tr style="border-bottom: 1px solid #e1e5e9; transition: background-color 0.2s;">
+                        <td style="padding: 1rem; font-weight: 600; color: #28a745;">
+                            {{ "%.2f"|format(calc.kwh_input) }} kWh
+                        </td>
+                        <td style="padding: 1rem; font-weight: 600; color: #dc3545;">
+                            {{ "%.2f"|format(calc.co2_result) }} kg CO₂e
+                        </td>
+                        <td style="padding: 1rem; color: #666;">
+                            {{ calc.calculated_at[:19] }}
+                        </td>
+                        <td style="padding: 1rem; color: #28a745;">
+                            🌳 {{ "%.1f"|format(calc.co2_result / 21.77) }}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        
+        <div style="margin-top: 2rem; text-align: center;">
+            <a href="{{ url_for('calculator') }}" class="btn-secondary">
+                <i class="fas fa-calculator"></i> Make New Calculation
+            </a>
+        </div>
+        
+        {% else %}
+        <div style="text-align: center; padding: 3rem; color: #666;">
+            <i class="fas fa-chart-line" style="font-size: 4rem; margin-bottom: 1rem; color: #e1e5e9;"></i>
+            <h3>No calculations yet</h3>
+            <p style="margin-bottom: 2rem;">Start tracking your carbon footprint by making your first calculation!</p>
+            <a href="{{ url_for('calculator') }}" class="btn-primary" style="display: inline-block; width: auto;">
+                <i class="fas fa-calculator"></i> Calculate Now
+            </a>
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_styles %}
+<style>
+    tbody tr:hover {
+        background-color: #f8f9fa !important;
+    }
+</style>
+{% endblock %}

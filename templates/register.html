@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+
+{% block title %}EcoTrack - Register{% endblock %}
+
+{% block content %}
+<div class="card" style="max-width: 500px; margin: 2rem auto;">
+    <div class="card-header">
+        <h1><i class="fas fa-user-plus"></i> Create Account</h1>
+        <p>Join the EcoTrack community</p>
+    </div>
+    
+    <div class="card-body">
+        <form method="post">
+            <div class="form-group">
+                <label for="username" class="form-label">
+                    <i class="fas fa-user"></i> Username
+                </label>
+                <input type="text" 
+                       id="username" 
+                       name="username" 
+                       class="form-input"
+                       placeholder="Choose a unique username"
+                       required
+                       autocomplete="username">
+            </div>
+            
+            <div class="form-group">
+                <label for="email" class="form-label">
+                    <i class="fas fa-envelope"></i> Email Address
+                </label>
+                <input type="email" 
+                       id="email" 
+                       name="email" 
+                       class="form-input"
+                       placeholder="Enter your email address"
+                       required
+                       autocomplete="email">
+            </div>
+            
+            <div class="form-group">
+                <label for="password" class="form-label">
+                    <i class="fas fa-lock"></i> Password
+                </label>
+                <input type="password" 
+                       id="password" 
+                       name="password" 
+                       class="form-input"
+                       placeholder="Create a secure password"
+                       required
+                       autocomplete="new-password">
+                <small style="color: #666; font-size: 0.9rem; margin-top: 0.5rem; display: block;">
+                    <i class="fas fa-info-circle"></i> 
+                    Password must be at least 6 characters long
+                </small>
+            </div>
+            
+            <div class="form-group">
+                <label for="confirm_password" class="form-label">
+                    <i class="fas fa-lock"></i> Confirm Password
+                </label>
+                <input type="password" 
+                       id="confirm_password" 
+                       name="confirm_password" 
+                       class="form-input"
+                       placeholder="Confirm your password"
+                       required
+                       autocomplete="new-password">
+            </div>
+            
+            <button type="submit" class="btn-primary">
+                <i class="fas fa-user-plus"></i> Create Account
+            </button>
+        </form>
+        
+        <div style="text-align: center; margin-top: 2rem; padding-top: 2rem; border-top: 1px solid #e1e5e9;">
+            <p style="color: #666; margin-bottom: 1rem;">Already have an account?</p>
+            <a href="{{ url_for('login') }}" class="btn-secondary">
+                <i class="fas fa-sign-in-alt"></i> Login Here
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}

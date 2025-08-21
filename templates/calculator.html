@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+
+{% block title %}EcoTrack - Carbon Calculator{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header">
+        <h1><i class="fas fa-calculator"></i> Carbon Footprint Calculator</h1>
+        <p>Calculate your monthly electricity carbon footprint</p>
+    </div>
+    
+    <div class="card-body">
+        <form method="post">
+            <div class="form-group">
+                <label for="kwh" class="form-label">
+                    <i class="fas fa-bolt"></i> Monthly Electricity Consumption (kWh)
+                </label>
+                <input type="text" 
+                       id="kwh" 
+                       name="kwh" 
+                       class="form-input"
+                       value="{{ kwh_input or '' }}" 
+                       placeholder="Enter your monthly kWh usage (e.g., 500)"
+                       autocomplete="off">
+                <small style="color: #666; font-size: 0.9rem; margin-top: 0.5rem; display: block;">
+                    <i class="fas fa-info-circle"></i> 
+                    Average household uses 877 kWh per month. Check your electricity bill for exact usage.
+                </small>
+            </div>
+            
+            <button type="submit" class="btn-primary">
+                <i class="fas fa-leaf"></i> Calculate Carbon Footprint
+            </button>
+        </form>
+
+        {% if error %}
+        {% set display_error = 'Must be > 0.' if 'Value must be greater than 0' in error else error %}
+        <div class="error-card">
+            <i class="fas fa-exclamation-triangle" style="font-size: 2rem; margin-bottom: 1rem;"></i>
+            <div style="font-size: 1.1rem; font-weight: 600;">{{ display_error }}</div>
+        </div>
+        {% endif %}
+
+        {% if result %}
+        <div class="result-card">
+            <i class="fas fa-leaf" style="font-size: 3rem; color: #28a745; margin-bottom: 1rem;"></i>
+            <div class="result-label">Your Monthly Carbon Footprint</div>
+            <div class="result-value">{{ "%.0f"|format(result) }}</div>
+            <div style="font-size: 1.2rem; color: #155724; margin-bottom: 1rem;">kg CO₂e per month</div>
+            <div style="background: rgba(255,255,255,0.8); padding: 1rem; border-radius: 10px; margin-top: 1rem;">
+                <div style="font-size: 0.95rem; color: #155724;">
+                    <strong>Environmental Impact:</strong><br>
+                    {% set trees = (result / 21.77) | round(1) %}
+                    🌳 Equivalent to {{ trees }} trees needed to absorb this CO₂ annually<br>
+                    {% set annual = (result * 12) | round(2) %}
+                    📅 Annual estimate: {{ annual }} kg CO₂e
+                </div>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<div class="card">
+    <div class="card-body">
+        <h3 style="color: #28a745; margin-bottom: 1rem;">
+            <i class="fas fa-lightbulb"></i> Tips to Reduce Your Carbon Footprint
+        </h3>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+            <div style="background: #f8f9fa; padding: 1rem; border-radius: 10px; border-left: 4px solid #28a745;">
+                <strong>💡 Energy Efficient Appliances</strong><br>
+                <small>Use LED bulbs and ENERGY STAR certified appliances</small>
+            </div>
+            <div style="background: #f8f9fa; padding: 1rem; border-radius: 10px; border-left: 4px solid #28a745;">
+                <strong>🏠 Smart Thermostat</strong><br>
+                <small>Optimize heating and cooling with programmable settings</small>
+            </div>
+            <div style="background: #f8f9fa; padding: 1rem; border-radius: 10px; border-left: 4px solid #28a745;">
+                <strong>☀️ Solar Power</strong><br>
+                <small>Consider renewable energy sources for your home</small>
+            </div>
+            <div style="background: #f8f9fa; padding: 1rem; border-radius: 10px; border-left: 4px solid #28a745;">
+                <strong>🔌 Unplug Devices</strong><br>
+                <small>Avoid phantom energy consumption from standby devices</small>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
