@@ -1,0 +1,1351 @@
+2025-10-04 10:50:10,389 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:10,393 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:10,395 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:10,395 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:10,395 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:10,395 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:10,396 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:10,396 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:10,397 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:10,397 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:10,397 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:10,397 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:10,397 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:10,398 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:10,398 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:10,399 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:10,399 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:10,557 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-10-04 10:50:10,557 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2025-10-04 10:50:10,587 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:11,083 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:11,085 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:11,087 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:11,087 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:11,087 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:11,128 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:11,172 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:11,266 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\exceptions.py', reloading
+2025-10-04 10:50:11,285 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\helpers.py', reloading
+2025-10-04 10:50:11,310 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\results.py', reloading
+2025-10-04 10:50:11,335 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\testing.py', reloading
+2025-10-04 10:50:11,353 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\unicode.py', reloading
+2025-10-04 10:50:11,373 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyparsing\\util.py', reloading
+2025-10-04 10:50:11,401 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\__init__.py', reloading
+2025-10-04 10:50:11,430 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_compat.py', reloading
+2025-10-04 10:50:11,455 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_impl.py', reloading
+2025-10-04 10:50:11,485 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process\\__init__.py', reloading
+2025-10-04 10:50:11,530 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\pyproject_hooks\\_in_process\\_in_process.py', reloading
+2025-10-04 10:50:11,573 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__init__.py', reloading
+2025-10-04 10:50:11,600 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\__version__.py', reloading
+2025-10-04 10:50:11,627 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\_internal_utils.py', reloading
+2025-10-04 10:50:11,653 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\adapters.py', reloading
+2025-10-04 10:50:11,679 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\api.py', reloading
+2025-10-04 10:50:11,704 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\auth.py', reloading
+2025-10-04 10:50:11,722 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\certs.py', reloading
+2025-10-04 10:50:11,748 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\compat.py', reloading
+2025-10-04 10:50:11,768 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\cookies.py', reloading
+2025-10-04 10:50:11,790 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\exceptions.py', reloading
+2025-10-04 10:50:11,807 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\help.py', reloading
+2025-10-04 10:50:11,822 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\hooks.py', reloading
+2025-10-04 10:50:11,846 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\models.py', reloading
+2025-10-04 10:50:11,856 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\packages.py', reloading
+2025-10-04 10:50:11,882 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\sessions.py', reloading
+2025-10-04 10:50:11,903 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\status_codes.py', reloading
+2025-10-04 10:50:11,929 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\structures.py', reloading
+2025-10-04 10:50:11,948 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\requests\\utils.py', reloading
+2025-10-04 10:50:11,966 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\__init__.py', reloading
+2025-10-04 10:50:11,982 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\compat\\collections_abc.py', reloading
+2025-10-04 10:50:12,002 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\providers.py', reloading
+2025-10-04 10:50:12,021 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\reporters.py', reloading
+2025-10-04 10:50:12,043 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\resolvers.py', reloading
+2025-10-04 10:50:12,064 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\resolvelib\\structs.py', reloading
+2025-10-04 10:50:12,081 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__init__.py', reloading
+2025-10-04 10:50:12,101 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\__main__.py', reloading
+2025-10-04 10:50:12,120 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_cell_widths.py', reloading
+2025-10-04 10:50:12,137 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_emoji_codes.py', reloading
+2025-10-04 10:50:12,160 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_emoji_replace.py', reloading
+2025-10-04 10:50:12,180 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_export_format.py', reloading
+2025-10-04 10:50:12,192 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_extension.py', reloading
+2025-10-04 10:50:12,204 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_fileno.py', reloading
+2025-10-04 10:50:12,229 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\_inspect.py', reloading
+2025-10-04 10:50:12,311 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:12,828 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:12,828 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:12,828 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:12,828 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:12,830 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:12,830 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:12,830 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:12,830 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:12,830 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:12,830 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:12,832 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:12,970 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:12,978 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:13,032 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\filesize.py', reloading
+2025-10-04 10:50:13,049 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\highlighter.py', reloading
+2025-10-04 10:50:13,068 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\json.py', reloading
+2025-10-04 10:50:13,088 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\jupyter.py', reloading
+2025-10-04 10:50:13,110 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\layout.py', reloading
+2025-10-04 10:50:13,133 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\live.py', reloading
+2025-10-04 10:50:13,151 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\live_render.py', reloading
+2025-10-04 10:50:13,170 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\logging.py', reloading
+2025-10-04 10:50:13,196 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\markup.py', reloading
+2025-10-04 10:50:13,213 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\measure.py', reloading
+2025-10-04 10:50:13,232 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\padding.py', reloading
+2025-10-04 10:50:13,250 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\pager.py', reloading
+2025-10-04 10:50:13,267 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\palette.py', reloading
+2025-10-04 10:50:13,285 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\panel.py', reloading
+2025-10-04 10:50:13,305 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\pretty.py', reloading
+2025-10-04 10:50:13,333 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\progress.py', reloading
+2025-10-04 10:50:13,351 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\progress_bar.py', reloading
+2025-10-04 10:50:13,369 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\prompt.py', reloading
+2025-10-04 10:50:13,387 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\protocol.py', reloading
+2025-10-04 10:50:13,401 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\region.py', reloading
+2025-10-04 10:50:13,417 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\repr.py', reloading
+2025-10-04 10:50:13,434 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\rule.py', reloading
+2025-10-04 10:50:13,450 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\scope.py', reloading
+2025-10-04 10:50:13,466 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\screen.py', reloading
+2025-10-04 10:50:13,487 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\segment.py', reloading
+2025-10-04 10:50:13,507 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\spinner.py', reloading
+2025-10-04 10:50:13,528 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\status.py', reloading
+2025-10-04 10:50:13,549 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\style.py', reloading
+2025-10-04 10:50:13,567 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\styled.py', reloading
+2025-10-04 10:50:13,586 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\syntax.py', reloading
+2025-10-04 10:50:13,603 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\table.py', reloading
+2025-10-04 10:50:13,619 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\terminal_theme.py', reloading
+2025-10-04 10:50:13,645 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\text.py', reloading
+2025-10-04 10:50:13,662 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\theme.py', reloading
+2025-10-04 10:50:13,671 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\themes.py', reloading
+2025-10-04 10:50:13,695 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\traceback.py', reloading
+2025-10-04 10:50:13,715 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\rich\\tree.py', reloading
+2025-10-04 10:50:13,736 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\six.py', reloading
+2025-10-04 10:50:13,757 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\__init__.py', reloading
+2025-10-04 10:50:13,778 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\_asyncio.py', reloading
+2025-10-04 10:50:13,796 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\_utils.py', reloading
+2025-10-04 10:50:13,828 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\after.py', reloading
+2025-10-04 10:50:13,846 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\before.py', reloading
+2025-10-04 10:50:13,865 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\before_sleep.py', reloading
+2025-10-04 10:50:13,885 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\nap.py', reloading
+2025-10-04 10:50:13,902 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\retry.py', reloading
+2025-10-04 10:50:13,925 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\stop.py', reloading
+2025-10-04 10:50:13,943 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\tornadoweb.py', reloading
+2025-10-04 10:50:13,962 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tenacity\\wait.py', reloading
+2025-10-04 10:50:13,979 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\__init__.py', reloading
+2025-10-04 10:50:13,997 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\_parser.py', reloading
+2025-10-04 10:50:14,014 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\tomli\\_re.py', reloading
+2025-10-04 10:50:14,096 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:14,513 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:14,513 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:14,514 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:14,514 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:14,514 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:14,514 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:14,514 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:14,515 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:14,515 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:14,515 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:14,515 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:14,516 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:14,516 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:14,516 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:14,516 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:14,517 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:14,517 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:14,517 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:14,517 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:14,518 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:14,518 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:14,518 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:14,518 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:14,554 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:14,561 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:14,601 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\request.py', reloading
+2025-10-04 10:50:14,617 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\response.py', reloading
+2025-10-04 10:50:14,632 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\__init__.py', reloading
+2025-10-04 10:50:14,651 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\connection.py', reloading
+2025-10-04 10:50:14,669 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\proxy.py', reloading
+2025-10-04 10:50:14,683 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\queue.py', reloading
+2025-10-04 10:50:14,700 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\request.py', reloading
+2025-10-04 10:50:14,718 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\response.py', reloading
+2025-10-04 10:50:14,736 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\retry.py', reloading
+2025-10-04 10:50:14,759 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssl_.py', reloading
+2025-10-04 10:50:14,776 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssl_match_hostname.py', reloading
+2025-10-04 10:50:14,797 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\ssltransport.py', reloading
+2025-10-04 10:50:14,816 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\timeout.py', reloading
+2025-10-04 10:50:14,834 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\url.py', reloading
+2025-10-04 10:50:14,850 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\urllib3\\util\\wait.py', reloading
+2025-10-04 10:50:14,879 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\__init__.py', reloading
+2025-10-04 10:50:14,897 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\labels.py', reloading
+2025-10-04 10:50:14,915 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\mklabels.py', reloading
+2025-10-04 10:50:14,943 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\tests.py', reloading
+2025-10-04 10:50:14,962 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pip\\_vendor\\webencodings\\x_user_defined.py', reloading
+2025-10-04 10:50:15,025 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\__init__.py', reloading
+2025-10-04 10:50:15,047 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py', reloading
+2025-10-04 10:50:15,065 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py', reloading
+2025-10-04 10:50:15,081 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py', reloading
+2025-10-04 10:50:15,096 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py', reloading
+2025-10-04 10:50:15,109 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py', reloading
+2025-10-04 10:50:15,117 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py', reloading
+2025-10-04 10:50:15,134 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py', reloading
+2025-10-04 10:50:15,147 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py', reloading
+2025-10-04 10:50:15,162 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py', reloading
+2025-10-04 10:50:15,176 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py', reloading
+2025-10-04 10:50:15,191 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py', reloading
+2025-10-04 10:50:15,212 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py', reloading
+2025-10-04 10:50:15,240 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py', reloading
+2025-10-04 10:50:15,252 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py', reloading
+2025-10-04 10:50:15,280 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py', reloading
+2025-10-04 10:50:15,316 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py', reloading
+2025-10-04 10:50:15,318 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py', reloading
+2025-10-04 10:50:15,319 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py', reloading
+2025-10-04 10:50:15,335 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py', reloading
+2025-10-04 10:50:15,339 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py', reloading
+2025-10-04 10:50:15,343 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py', reloading
+2025-10-04 10:50:15,359 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py', reloading
+2025-10-04 10:50:15,370 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py', reloading
+2025-10-04 10:50:15,385 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py', reloading
+2025-10-04 10:50:15,402 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py', reloading
+2025-10-04 10:50:15,407 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py', reloading
+2025-10-04 10:50:15,424 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py', reloading
+2025-10-04 10:50:15,435 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py', reloading
+2025-10-04 10:50:15,451 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py', reloading
+2025-10-04 10:50:15,473 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py', reloading
+2025-10-04 10:50:15,492 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py', reloading
+2025-10-04 10:50:15,551 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py', reloading
+2025-10-04 10:50:15,663 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:16,584 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:16,593 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:16,597 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:16,602 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:16,765 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:16,816 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:16,827 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:16,834 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:16,840 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:16,844 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:16,846 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:16,848 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:16,849 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:16,850 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:16,857 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:16,863 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:16,894 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:16,896 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:16,897 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:16,902 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:16,934 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:16,939 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:16,943 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:17,442 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:17,456 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:17,712 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pycparser\\ply\\ctokens.py', reloading
+2025-10-04 10:50:17,834 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pycparser\\ply\\lex.py', reloading
+2025-10-04 10:50:18,023 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pycparser\\ply\\yacc.py', reloading
+2025-10-04 10:50:18,080 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pycparser\\ply\\ygen.py', reloading
+2025-10-04 10:50:18,145 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pycparser\\plyparser.py', reloading
+2025-10-04 10:50:18,246 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pycparser\\yacctab.py', reloading
+2025-10-04 10:50:18,370 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pytest\\__init__.py', reloading
+2025-10-04 10:50:18,416 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pytest\\__main__.py', reloading
+2025-10-04 10:50:18,533 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pytest_html\\__init__.py', reloading
+2025-10-04 10:50:18,594 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\pytest_html\\__version.py', reloading
+2025-10-04 10:50:18,831 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:20,611 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:20,613 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:20,613 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:20,613 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:20,613 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:20,614 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:20,614 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:20,614 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:20,614 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:20,617 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:20,617 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:20,617 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:20,619 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:20,619 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:20,619 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:20,619 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:20,620 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:20,620 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:20,621 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:20,621 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:20,621 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:20,621 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:20,621 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:20,670 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:20,675 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:20,728 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\__init__.py', reloading
+2025-10-04 10:50:20,812 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\__version__.py', reloading
+2025-10-04 10:50:20,824 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\_internal_utils.py', reloading
+2025-10-04 10:50:20,960 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\adapters.py', reloading
+2025-10-04 10:50:21,077 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\api.py', reloading
+2025-10-04 10:50:21,126 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\auth.py', reloading
+2025-10-04 10:50:21,192 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\certs.py', reloading
+2025-10-04 10:50:21,231 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\compat.py', reloading
+2025-10-04 10:50:21,288 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\cookies.py', reloading
+2025-10-04 10:50:21,327 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\exceptions.py', reloading
+2025-10-04 10:50:21,344 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\help.py', reloading
+2025-10-04 10:50:21,361 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\hooks.py', reloading
+2025-10-04 10:50:21,390 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\models.py', reloading
+2025-10-04 10:50:21,430 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\packages.py', reloading
+2025-10-04 10:50:21,457 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\sessions.py', reloading
+2025-10-04 10:50:21,479 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\status_codes.py', reloading
+2025-10-04 10:50:21,483 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\structures.py', reloading
+2025-10-04 10:50:21,508 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\requests\\utils.py', reloading
+2025-10-04 10:50:21,537 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\__init__.py', reloading
+2025-10-04 10:50:21,555 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\common\\__init__.py', reloading
+2025-10-04 10:50:21,578 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\common\\exceptions.py', reloading
+2025-10-04 10:50:21,595 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\types.py', reloading
+2025-10-04 10:50:21,613 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\__init__.py', reloading
+2025-10-04 10:50:21,628 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__init__.py', reloading
+2025-10-04 10:50:21,646 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\options.py', reloading
+2025-10-04 10:50:21,664 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\service.py', reloading
+2025-10-04 10:50:21,688 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py', reloading
+2025-10-04 10:50:21,690 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__init__.py', reloading
+2025-10-04 10:50:21,711 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\chromium\\options.py', reloading
+2025-10-04 10:50:21,796 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:22,340 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:22,342 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:22,342 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:22,344 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:22,346 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:22,346 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:22,349 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:22,350 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:22,352 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:22,353 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:22,354 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:22,355 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:22,355 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:22,355 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:22,355 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:22,358 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:22,361 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:22,366 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:22,369 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:22,372 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:22,373 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:22,373 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:22,374 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:22,422 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:22,427 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:22,486 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\console.py', reloading
+2025-10-04 10:50:22,528 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\css.py', reloading
+2025-10-04 10:50:22,554 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\database.py', reloading
+2025-10-04 10:50:22,591 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\debugger.py', reloading
+2025-10-04 10:50:22,633 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\device_access.py', reloading
+2025-10-04 10:50:22,666 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\device_orientation.py', reloading
+2025-10-04 10:50:22,696 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\dom.py', reloading
+2025-10-04 10:50:22,725 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\dom_debugger.py', reloading
+2025-10-04 10:50:22,777 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\dom_snapshot.py', reloading
+2025-10-04 10:50:22,801 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\dom_storage.py', reloading
+2025-10-04 10:50:22,838 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\emulation.py', reloading
+2025-10-04 10:50:22,861 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\event_breakpoints.py', reloading
+2025-10-04 10:50:22,892 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\fed_cm.py', reloading
+2025-10-04 10:50:22,919 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\fetch.py', reloading
+2025-10-04 10:50:22,952 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\headless_experimental.py', reloading
+2025-10-04 10:50:22,973 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\heap_profiler.py', reloading
+2025-10-04 10:50:23,002 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\indexed_db.py', reloading
+2025-10-04 10:50:23,030 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\input_.py', reloading
+2025-10-04 10:50:23,088 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\inspector.py', reloading
+2025-10-04 10:50:23,118 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\io.py', reloading
+2025-10-04 10:50:23,166 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\layer_tree.py', reloading
+2025-10-04 10:50:23,259 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\log.py', reloading
+2025-10-04 10:50:23,324 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\media.py', reloading
+2025-10-04 10:50:23,426 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v117\\memory.py', reloading
+2025-10-04 10:50:23,671 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:24,852 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:24,852 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:24,853 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:24,855 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:24,857 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:24,857 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:24,857 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:24,857 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:24,857 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:24,960 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:24,967 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:25,083 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\accessibility.py', reloading
+2025-10-04 10:50:25,199 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\animation.py', reloading
+2025-10-04 10:50:25,306 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\audits.py', reloading
+2025-10-04 10:50:25,422 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\autofill.py', reloading
+2025-10-04 10:50:25,435 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\background_service.py', reloading
+2025-10-04 10:50:25,647 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\browser.py', reloading
+2025-10-04 10:50:25,750 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\cache_storage.py', reloading
+2025-10-04 10:50:25,757 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\cast.py', reloading
+2025-10-04 10:50:25,767 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\console.py', reloading
+2025-10-04 10:50:25,866 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\css.py', reloading
+2025-10-04 10:50:25,875 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\database.py', reloading
+2025-10-04 10:50:25,974 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\debugger.py', reloading
+2025-10-04 10:50:26,004 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\device_access.py', reloading
+2025-10-04 10:50:26,169 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:27,257 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:27,262 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:27,264 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:27,264 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:27,264 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:27,265 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:27,266 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:27,266 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:27,267 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:27,267 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:27,267 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:27,267 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:27,268 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:27,268 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:27,268 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:27,269 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:27,270 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:27,270 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:27,271 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:27,271 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:27,271 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:27,272 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:27,272 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:27,365 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:27,370 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:27,456 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\service_worker.py', reloading
+2025-10-04 10:50:27,518 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\storage.py', reloading
+2025-10-04 10:50:27,547 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\system_info.py', reloading
+2025-10-04 10:50:27,569 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\target.py', reloading
+2025-10-04 10:50:27,572 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\tethering.py', reloading
+2025-10-04 10:50:27,593 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\tracing.py', reloading
+2025-10-04 10:50:27,599 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\util.py', reloading
+2025-10-04 10:50:27,620 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\web_audio.py', reloading
+2025-10-04 10:50:27,641 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v118\\web_authn.py', reloading
+2025-10-04 10:50:27,648 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\__init__.py', reloading
+2025-10-04 10:50:27,667 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\accessibility.py', reloading
+2025-10-04 10:50:27,692 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\animation.py', reloading
+2025-10-04 10:50:27,791 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\audits.py', reloading
+2025-10-04 10:50:27,797 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\autofill.py', reloading
+2025-10-04 10:50:27,801 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\background_service.py', reloading
+2025-10-04 10:50:27,833 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\browser.py', reloading
+2025-10-04 10:50:27,854 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\cache_storage.py', reloading
+2025-10-04 10:50:27,857 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\cast.py', reloading
+2025-10-04 10:50:27,861 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\console.py', reloading
+2025-10-04 10:50:27,889 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\css.py', reloading
+2025-10-04 10:50:27,897 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\database.py', reloading
+2025-10-04 10:50:27,923 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\debugger.py', reloading
+2025-10-04 10:50:27,934 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\device_access.py', reloading
+2025-10-04 10:50:27,936 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\device_orientation.py', reloading
+2025-10-04 10:50:27,984 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\dom.py', reloading
+2025-10-04 10:50:28,018 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\dom_debugger.py', reloading
+2025-10-04 10:50:28,044 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\dom_snapshot.py', reloading
+2025-10-04 10:50:28,049 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\dom_storage.py', reloading
+2025-10-04 10:50:28,080 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\emulation.py', reloading
+2025-10-04 10:50:28,084 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\event_breakpoints.py', reloading
+2025-10-04 10:50:28,110 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\fed_cm.py', reloading
+2025-10-04 10:50:28,128 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\fetch.py', reloading
+2025-10-04 10:50:28,133 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\headless_experimental.py', reloading
+2025-10-04 10:50:28,151 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\heap_profiler.py', reloading
+2025-10-04 10:50:28,189 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\indexed_db.py', reloading
+2025-10-04 10:50:28,224 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\input_.py', reloading
+2025-10-04 10:50:28,230 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\inspector.py', reloading
+2025-10-04 10:50:28,232 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\io.py', reloading
+2025-10-04 10:50:28,251 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\layer_tree.py', reloading
+2025-10-04 10:50:28,254 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\log.py', reloading
+2025-10-04 10:50:28,256 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\media.py', reloading
+2025-10-04 10:50:28,262 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\memory.py', reloading
+2025-10-04 10:50:28,289 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\network.py', reloading
+2025-10-04 10:50:28,333 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\overlay.py', reloading
+2025-10-04 10:50:28,362 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\page.py', reloading
+2025-10-04 10:50:28,371 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\performance.py', reloading
+2025-10-04 10:50:28,380 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\performance_timeline.py', reloading
+2025-10-04 10:50:28,420 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v119\\preload.py', reloading
+2025-10-04 10:50:28,505 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:29,014 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:29,018 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:29,022 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:29,026 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:29,030 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:29,033 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:29,037 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:29,038 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:29,038 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:29,040 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:29,045 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:29,047 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:29,050 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:29,051 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:29,056 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:29,064 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:29,064 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:29,068 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:29,069 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:29,072 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:29,072 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:29,080 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:29,080 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:29,132 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:29,140 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:29,189 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\device_orientation.py', reloading
+2025-10-04 10:50:29,217 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\dom.py', reloading
+2025-10-04 10:50:29,246 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\dom_debugger.py', reloading
+2025-10-04 10:50:29,272 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\dom_snapshot.py', reloading
+2025-10-04 10:50:29,295 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\dom_storage.py', reloading
+2025-10-04 10:50:29,322 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\emulation.py', reloading
+2025-10-04 10:50:29,362 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\fetch.py', reloading
+2025-10-04 10:50:29,393 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\headless_experimental.py', reloading
+2025-10-04 10:50:29,416 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\heap_profiler.py', reloading
+2025-10-04 10:50:29,447 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\indexed_db.py', reloading
+2025-10-04 10:50:29,470 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\input_.py', reloading
+2025-10-04 10:50:29,473 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\inspector.py', reloading
+2025-10-04 10:50:29,501 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\io.py', reloading
+2025-10-04 10:50:29,532 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\layer_tree.py', reloading
+2025-10-04 10:50:29,562 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\log.py', reloading
+2025-10-04 10:50:29,583 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\media.py', reloading
+2025-10-04 10:50:29,586 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\memory.py', reloading
+2025-10-04 10:50:29,615 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\network.py', reloading
+2025-10-04 10:50:29,655 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\overlay.py', reloading
+2025-10-04 10:50:29,680 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\page.py', reloading
+2025-10-04 10:50:29,685 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\performance.py', reloading
+2025-10-04 10:50:29,718 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\profiler.py', reloading
+2025-10-04 10:50:29,749 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\runtime.py', reloading
+2025-10-04 10:50:29,754 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\schema.py', reloading
+2025-10-04 10:50:29,782 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\security.py', reloading
+2025-10-04 10:50:29,804 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\service_worker.py', reloading
+2025-10-04 10:50:29,836 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\storage.py', reloading
+2025-10-04 10:50:29,864 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\system_info.py', reloading
+2025-10-04 10:50:29,887 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\target.py', reloading
+2025-10-04 10:50:29,892 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\tethering.py', reloading
+2025-10-04 10:50:29,917 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\tracing.py', reloading
+2025-10-04 10:50:29,922 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\util.py', reloading
+2025-10-04 10:50:29,954 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\web_audio.py', reloading
+2025-10-04 10:50:29,983 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v85\\web_authn.py', reloading
+2025-10-04 10:50:30,011 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\driver_finder.py', reloading
+2025-10-04 10:50:30,017 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\__init__.py', reloading
+2025-10-04 10:50:30,050 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\html5\\application_cache.py', reloading
+2025-10-04 10:50:30,071 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\keys.py', reloading
+2025-10-04 10:50:30,101 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\log.py', reloading
+2025-10-04 10:50:30,163 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\options.py', reloading
+2025-10-04 10:50:30,185 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\common\\print_page_options.py', reloading
+2025-10-04 10:50:30,277 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:30,807 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:30,810 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:30,811 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:30,811 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:30,811 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:30,812 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:30,812 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:30,813 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:30,813 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:30,813 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:30,814 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:30,814 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:30,814 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:30,814 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:30,814 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:30,814 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:30,815 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:30,815 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:30,815 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:30,815 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:30,817 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:30,817 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:30,818 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:30,869 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:30,878 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:31,210 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\mobile.py', reloading
+2025-10-04 10:50:31,231 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\remote_connection.py', reloading
+2025-10-04 10:50:31,251 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\script_key.py', reloading
+2025-10-04 10:50:31,278 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\shadowroot.py', reloading
+2025-10-04 10:50:31,303 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\switch_to.py', reloading
+2025-10-04 10:50:31,327 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\utils.py', reloading
+2025-10-04 10:50:31,354 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py', reloading
+2025-10-04 10:50:31,386 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py', reloading
+2025-10-04 10:50:31,394 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\__init__.py', reloading
+2025-10-04 10:50:31,417 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\options.py', reloading
+2025-10-04 10:50:31,455 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\permissions.py', reloading
+2025-10-04 10:50:31,479 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\remote_connection.py', reloading
+2025-10-04 10:50:31,518 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\service.py', reloading
+2025-10-04 10:50:31,670 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\safari\\webdriver.py', reloading
+2025-10-04 10:50:31,677 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\__init__.py', reloading
+2025-10-04 10:50:31,724 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\abstract_event_listener.py', reloading
+2025-10-04 10:50:31,761 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\color.py', reloading
+2025-10-04 10:50:31,801 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\event_firing_webdriver.py', reloading
+2025-10-04 10:50:31,851 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\events.py', reloading
+2025-10-04 10:50:31,893 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py', reloading
+2025-10-04 10:50:31,914 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\selenium\\webdriver\\support\\relative_locator.py', reloading
+2025-10-04 10:50:32,001 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:32,476 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:32,477 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:32,477 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:32,477 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:32,477 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:32,478 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:32,478 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:32,478 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:32,478 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:32,479 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:32,480 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:32,480 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:32,480 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:32,480 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:32,480 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:32,481 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:32,517 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:32,524 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:32,561 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py', reloading
+2025-10-04 10:50:32,581 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py', reloading
+2025-10-04 10:50:32,600 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py', reloading
+2025-10-04 10:50:32,618 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py', reloading
+2025-10-04 10:50:32,643 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py', reloading
+2025-10-04 10:50:32,663 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py', reloading
+2025-10-04 10:50:32,685 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py', reloading
+2025-10-04 10:50:32,703 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py', reloading
+2025-10-04 10:50:32,718 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py', reloading
+2025-10-04 10:50:32,736 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py', reloading
+2025-10-04 10:50:32,759 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py', reloading
+2025-10-04 10:50:32,777 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py', reloading
+2025-10-04 10:50:32,796 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\config.py', reloading
+2025-10-04 10:50:32,814 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\core.py', reloading
+2025-10-04 10:50:32,833 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py', reloading
+2025-10-04 10:50:32,848 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\debug.py', reloading
+2025-10-04 10:50:32,867 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py', reloading
+2025-10-04 10:50:32,891 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py', reloading
+2025-10-04 10:50:32,915 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\dist.py', reloading
+2025-10-04 10:50:32,937 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\errors.py', reloading
+2025-10-04 10:50:32,959 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\extension.py', reloading
+2025-10-04 10:50:32,976 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py', reloading
+2025-10-04 10:50:32,996 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py', reloading
+2025-10-04 10:50:33,018 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py', reloading
+2025-10-04 10:50:33,035 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\log.py', reloading
+2025-10-04 10:50:33,053 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py', reloading
+2025-10-04 10:50:33,074 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py', reloading
+2025-10-04 10:50:33,085 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py', reloading
+2025-10-04 10:50:33,100 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py', reloading
+2025-10-04 10:50:33,141 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py', reloading
+2025-10-04 10:50:33,158 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py', reloading
+2025-10-04 10:50:33,179 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py', reloading
+2025-10-04 10:50:33,198 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py', reloading
+2025-10-04 10:50:33,217 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\util.py', reloading
+2025-10-04 10:50:33,242 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\version.py', reloading
+2025-10-04 10:50:33,259 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py', reloading
+2025-10-04 10:50:33,279 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_entry_points.py', reloading
+2025-10-04 10:50:33,295 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_imp.py', reloading
+2025-10-04 10:50:33,311 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_importlib.py', reloading
+2025-10-04 10:50:33,325 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_itertools.py', reloading
+2025-10-04 10:50:33,335 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_path.py', reloading
+2025-10-04 10:50:33,351 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_reqs.py', reloading
+2025-10-04 10:50:33,370 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py', reloading
+2025-10-04 10:50:33,385 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py', reloading
+2025-10-04 10:50:33,399 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py', reloading
+2025-10-04 10:50:33,415 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py', reloading
+2025-10-04 10:50:33,432 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py', reloading
+2025-10-04 10:50:33,452 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py', reloading
+2025-10-04 10:50:33,466 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py', reloading
+2025-10-04 10:50:33,484 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py', reloading
+2025-10-04 10:50:33,502 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py', reloading
+2025-10-04 10:50:33,508 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py', reloading
+2025-10-04 10:50:33,510 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py', reloading
+2025-10-04 10:50:33,524 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py', reloading
+2025-10-04 10:50:33,526 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py', reloading
+2025-10-04 10:50:33,528 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py', reloading
+2025-10-04 10:50:33,530 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py', reloading
+2025-10-04 10:50:33,532 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py', reloading
+2025-10-04 10:50:33,548 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py', reloading
+2025-10-04 10:50:33,550 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py', reloading
+2025-10-04 10:50:33,628 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:34,150 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:34,151 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:34,151 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:34,151 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:34,151 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:34,151 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:34,152 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:34,153 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:34,153 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:34,154 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:34,154 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:34,155 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:34,155 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:34,155 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:34,155 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:34,156 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:34,156 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:34,156 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:34,156 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:34,157 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:34,157 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:34,157 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:34,157 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:34,200 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:34,207 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:34,268 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py', reloading
+2025-10-04 10:50:34,290 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\archive_util.py', reloading
+2025-10-04 10:50:34,311 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\build_meta.py', reloading
+2025-10-04 10:50:34,326 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\__init__.py', reloading
+2025-10-04 10:50:34,342 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\alias.py', reloading
+2025-10-04 10:50:34,361 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py', reloading
+2025-10-04 10:50:34,397 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\bdist_rpm.py', reloading
+2025-10-04 10:50:34,414 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\build.py', reloading
+2025-10-04 10:50:34,429 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\build_clib.py', reloading
+2025-10-04 10:50:34,451 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\build_ext.py', reloading
+2025-10-04 10:50:34,469 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\build_py.py', reloading
+2025-10-04 10:50:34,494 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\develop.py', reloading
+2025-10-04 10:50:34,512 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\dist_info.py', reloading
+2025-10-04 10:50:34,534 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\easy_install.py', reloading
+2025-10-04 10:50:34,557 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\editable_wheel.py', reloading
+2025-10-04 10:50:34,573 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\egg_info.py', reloading
+2025-10-04 10:50:34,594 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\install.py', reloading
+2025-10-04 10:50:34,611 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\install_egg_info.py', reloading
+2025-10-04 10:50:34,629 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\install_lib.py', reloading
+2025-10-04 10:50:34,650 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\install_scripts.py', reloading
+2025-10-04 10:50:34,691 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\py36compat.py', reloading
+2025-10-04 10:50:34,701 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\register.py', reloading
+2025-10-04 10:50:34,719 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\rotate.py', reloading
+2025-10-04 10:50:34,733 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\saveopts.py', reloading
+2025-10-04 10:50:34,751 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\sdist.py', reloading
+2025-10-04 10:50:34,768 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\setopt.py', reloading
+2025-10-04 10:50:34,784 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\test.py', reloading
+2025-10-04 10:50:34,800 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\upload.py', reloading
+2025-10-04 10:50:34,816 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\command\\upload_docs.py', reloading
+2025-10-04 10:50:34,834 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\__init__.py', reloading
+2025-10-04 10:50:34,856 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py', reloading
+2025-10-04 10:50:34,881 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py', reloading
+2025-10-04 10:50:34,901 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py', reloading
+2025-10-04 10:50:34,926 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py', reloading
+2025-10-04 10:50:34,946 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py', reloading
+2025-10-04 10:50:34,994 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py', reloading
+2025-10-04 10:50:35,025 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py', reloading
+2025-10-04 10:50:35,046 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\expand.py', reloading
+2025-10-04 10:50:35,067 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py', reloading
+2025-10-04 10:50:35,092 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\config\\setupcfg.py', reloading
+2025-10-04 10:50:35,108 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\dep_util.py', reloading
+2025-10-04 10:50:35,130 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\depends.py', reloading
+2025-10-04 10:50:35,150 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\discovery.py', reloading
+2025-10-04 10:50:35,178 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\dist.py', reloading
+2025-10-04 10:50:35,196 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\errors.py', reloading
+2025-10-04 10:50:35,215 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\extension.py', reloading
+2025-10-04 10:50:35,232 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\setuptools\\extern\\__init__.py', reloading
+2025-10-04 10:50:35,312 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:35,864 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:35,868 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:35,869 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:35,870 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:35,872 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:35,872 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:35,872 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:35,912 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:35,916 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:35,973 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_abc.py', reloading
+2025-10-04 10:50:35,994 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_channel.py', reloading
+2025-10-04 10:50:36,015 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\__init__.py', reloading
+2025-10-04 10:50:36,038 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_asyncgens.py', reloading
+2025-10-04 10:50:36,056 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_concat_tb.py', reloading
+2025-10-04 10:50:36,075 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_entry_queue.py', reloading
+2025-10-04 10:50:36,092 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_exceptions.py', reloading
+2025-10-04 10:50:36,108 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_generated_instrumentation.py', reloading
+2025-10-04 10:50:36,124 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_generated_io_epoll.py', reloading
+2025-10-04 10:50:36,143 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_generated_io_kqueue.py', reloading
+2025-10-04 10:50:36,162 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_generated_io_windows.py', reloading
+2025-10-04 10:50:36,179 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_generated_run.py', reloading
+2025-10-04 10:50:36,213 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_instrumentation.py', reloading
+2025-10-04 10:50:36,233 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_io_common.py', reloading
+2025-10-04 10:50:36,253 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_io_epoll.py', reloading
+2025-10-04 10:50:36,274 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_io_kqueue.py', reloading
+2025-10-04 10:50:36,296 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_io_windows.py', reloading
+2025-10-04 10:50:36,320 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_ki.py', reloading
+2025-10-04 10:50:36,339 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_local.py', reloading
+2025-10-04 10:50:36,358 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_mock_clock.py', reloading
+2025-10-04 10:50:36,378 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_parking_lot.py', reloading
+2025-10-04 10:50:36,400 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_run.py', reloading
+2025-10-04 10:50:36,417 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_run_context.py', reloading
+2025-10-04 10:50:36,436 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_asyncgen.py', reloading
+2025-10-04 10:50:36,462 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_exceptiongroup_gc.py', reloading
+2025-10-04 10:50:36,491 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_guest_mode.py', reloading
+2025-10-04 10:50:36,522 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_instrumentation.py', reloading
+2025-10-04 10:50:36,541 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_io.py', reloading
+2025-10-04 10:50:36,559 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_ki.py', reloading
+2025-10-04 10:50:36,575 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_local.py', reloading
+2025-10-04 10:50:36,591 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_mock_clock.py', reloading
+2025-10-04 10:50:36,606 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_parking_lot.py', reloading
+2025-10-04 10:50:36,628 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_run.py', reloading
+2025-10-04 10:50:36,646 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_thread_cache.py', reloading
+2025-10-04 10:50:36,662 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_tutil.py', reloading
+2025-10-04 10:50:36,676 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_unbounded_queue.py', reloading
+2025-10-04 10:50:36,695 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\test_windows.py', reloading
+2025-10-04 10:50:36,712 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\tutil.py', reloading
+2025-10-04 10:50:36,729 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\type_tests\\nursery_start.py', reloading
+2025-10-04 10:50:36,751 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_tests\\type_tests\\run.py', reloading
+2025-10-04 10:50:36,768 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_thread_cache.py', reloading
+2025-10-04 10:50:36,790 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_traps.py', reloading
+2025-10-04 10:50:36,809 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_unbounded_queue.py', reloading
+2025-10-04 10:50:36,825 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_wakeup_socketpair.py', reloading
+2025-10-04 10:50:36,846 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_core\\_windows_cffi.py', reloading
+2025-10-04 10:50:36,865 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_deprecate.py', reloading
+2025-10-04 10:50:36,885 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_dtls.py', reloading
+2025-10-04 10:50:36,907 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_file_io.py', reloading
+2025-10-04 10:50:36,926 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_highlevel_generic.py', reloading
+2025-10-04 10:50:36,943 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_highlevel_open_tcp_listeners.py', reloading
+2025-10-04 10:50:37,038 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:37,462 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:37,463 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:37,464 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:37,464 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:37,464 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:37,464 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:37,465 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:37,465 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:37,465 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:37,465 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:37,466 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:37,466 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:37,468 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:37,468 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:37,468 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:37,468 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:37,469 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:37,507 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:37,510 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:37,548 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_generic.py', reloading
+2025-10-04 10:50:37,564 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_open_tcp_listeners.py', reloading
+2025-10-04 10:50:37,581 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_open_tcp_stream.py', reloading
+2025-10-04 10:50:37,599 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_open_unix_stream.py', reloading
+2025-10-04 10:50:37,621 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_serve_listeners.py', reloading
+2025-10-04 10:50:37,645 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_socket.py', reloading
+2025-10-04 10:50:37,672 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_highlevel_ssl_helpers.py', reloading
+2025-10-04 10:50:37,691 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_path.py', reloading
+2025-10-04 10:50:37,714 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_repl.py', reloading
+2025-10-04 10:50:37,739 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_scheduler_determinism.py', reloading
+2025-10-04 10:50:37,759 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_signals.py', reloading
+2025-10-04 10:50:37,792 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_socket.py', reloading
+2025-10-04 10:50:37,825 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_ssl.py', reloading
+2025-10-04 10:50:37,849 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_subprocess.py', reloading
+2025-10-04 10:50:37,872 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_sync.py', reloading
+2025-10-04 10:50:37,894 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_testing.py', reloading
+2025-10-04 10:50:37,935 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_testing_raisesgroup.py', reloading
+2025-10-04 10:50:37,972 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_threads.py', reloading
+2025-10-04 10:50:37,998 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_timeouts.py', reloading
+2025-10-04 10:50:38,023 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_tracing.py', reloading
+2025-10-04 10:50:38,046 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_trio.py', reloading
+2025-10-04 10:50:38,073 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_unix_pipes.py', reloading
+2025-10-04 10:50:38,094 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_util.py', reloading
+2025-10-04 10:50:38,113 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_wait_for_object.py', reloading
+2025-10-04 10:50:38,135 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\test_windows_pipes.py', reloading
+2025-10-04 10:50:38,163 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\tools\\test_gen_exports.py', reloading
+2025-10-04 10:50:38,181 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\tools\\test_mypy_annotate.py', reloading
+2025-10-04 10:50:38,204 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\type_tests\\check_wraps.py', reloading
+2025-10-04 10:50:38,220 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\type_tests\\open_memory_channel.py', reloading
+2025-10-04 10:50:38,241 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\type_tests\\path.py', reloading
+2025-10-04 10:50:38,260 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\type_tests\\raisesgroup.py', reloading
+2025-10-04 10:50:38,275 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\type_tests\\subprocesses.py', reloading
+2025-10-04 10:50:38,293 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tests\\type_tests\\task_status.py', reloading
+2025-10-04 10:50:38,313 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_threads.py', reloading
+2025-10-04 10:50:38,338 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_timeouts.py', reloading
+2025-10-04 10:50:38,362 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tools\\gen_exports.py', reloading
+2025-10-04 10:50:38,381 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_tools\\mypy_annotate.py', reloading
+2025-10-04 10:50:38,404 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_unix_pipes.py', reloading
+2025-10-04 10:50:38,490 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\trio\\_util.py', reloading
+2025-10-04 10:50:38,686 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:39,686 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:39,690 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:39,693 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:39,693 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:39,701 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:39,705 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:39,708 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:39,710 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:39,713 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:39,720 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:39,723 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:39,724 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:39,724 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:39,725 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:39,725 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:39,725 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:39,727 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:39,730 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:39,730 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:39,736 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:39,740 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:39,741 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:39,741 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:39,859 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:39,871 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:39,933 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\_version.py', reloading
+2025-10-04 10:50:39,979 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\connection.py', reloading
+2025-10-04 10:50:40,023 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\connectionpool.py', reloading
+2025-10-04 10:50:40,057 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py', reloading
+2025-10-04 10:50:40,080 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py', reloading
+2025-10-04 10:50:40,154 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py', reloading
+2025-10-04 10:50:40,182 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py', reloading
+2025-10-04 10:50:40,225 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py', reloading
+2025-10-04 10:50:40,294 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py', reloading
+2025-10-04 10:50:40,384 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\contrib\\socks.py', reloading
+2025-10-04 10:50:40,437 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\exceptions.py', reloading
+2025-10-04 10:50:40,504 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\fields.py', reloading
+2025-10-04 10:50:40,577 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\filepost.py', reloading
+2025-10-04 10:50:40,672 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\http2\\__init__.py', reloading
+2025-10-04 10:50:40,802 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\urllib3\\http2\\connection.py', reloading
+2025-10-04 10:50:41,201 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:44,441 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:44,452 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:44,467 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:44,467 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:44,467 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:44,467 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:44,467 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:44,487 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:44,488 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:44,500 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:44,501 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:44,507 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:44,509 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:44,524 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:44,536 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:44,557 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:44,588 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:44,666 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:44,738 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:44,787 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:44,819 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:44,867 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:44,904 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:45,234 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:45,248 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:45,420 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\core\\file_manager.py', reloading
+2025-10-04 10:50:45,518 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\core\\http.py', reloading
+2025-10-04 10:50:45,577 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\core\\logger.py', reloading
+2025-10-04 10:50:45,663 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\core\\manager.py', reloading
+2025-10-04 10:50:45,742 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\core\\os_manager.py', reloading
+2025-10-04 10:50:45,932 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\core\\utils.py', reloading
+2025-10-04 10:50:45,984 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\drivers\\chrome.py', reloading
+2025-10-04 10:50:46,017 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\drivers\\edge.py', reloading
+2025-10-04 10:50:46,187 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\webdriver_manager\\drivers\\firefox.py', reloading
+2025-10-04 10:50:46,567 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:47,402 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:47,404 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:47,404 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:47,409 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:47,410 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:47,412 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:47,413 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:47,414 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:47,414 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:47,415 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:47,416 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:47,416 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:47,416 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:47,416 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:47,417 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:47,417 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:47,418 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:47,419 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:47,419 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:47,419 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:47,419 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:47,420 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:47,422 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:47,472 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:47,483 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:50:47,732 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\debug\\tbtools.py', reloading
+2025-10-04 10:50:47,770 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\exceptions.py', reloading
+2025-10-04 10:50:47,802 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\formparser.py', reloading
+2025-10-04 10:50:47,837 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\http.py', reloading
+2025-10-04 10:50:47,860 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\local.py', reloading
+2025-10-04 10:50:47,880 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\middleware\\dispatcher.py', reloading
+2025-10-04 10:50:47,899 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\middleware\\http_proxy.py', reloading
+2025-10-04 10:50:47,930 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\middleware\\lint.py', reloading
+2025-10-04 10:50:47,962 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\middleware\\profiler.py', reloading
+2025-10-04 10:50:47,988 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\middleware\\proxy_fix.py', reloading
+2025-10-04 10:50:48,009 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\middleware\\shared_data.py', reloading
+2025-10-04 10:50:48,037 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\routing\\__init__.py', reloading
+2025-10-04 10:50:48,065 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\routing\\converters.py', reloading
+2025-10-04 10:50:48,085 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\routing\\exceptions.py', reloading
+2025-10-04 10:50:48,178 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\routing\\map.py', reloading
+2025-10-04 10:50:48,241 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\routing\\matcher.py', reloading
+2025-10-04 10:50:48,313 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\routing\\rules.py', reloading
+2025-10-04 10:50:48,340 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\sansio\\http.py', reloading
+2025-10-04 10:50:48,369 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\sansio\\multipart.py', reloading
+2025-10-04 10:50:48,404 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\sansio\\utils.py', reloading
+2025-10-04 10:50:48,434 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-10-04 10:50:48,468 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\test.py', reloading
+2025-10-04 10:50:48,501 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\testapp.py', reloading
+2025-10-04 10:50:48,530 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'D:\\Academics\\BTech Academics\\ecotrack\\venv\\Lib\\site-packages\\werkzeug\\urls.py', reloading
+2025-10-04 10:50:48,696 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:50:49,288 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:50:49,290 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:50:49,290 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:50:49,290 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:50:49,290 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:50:49,290 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:50:49,292 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:50:49,293 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:50:49,293 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:50:49,293 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:50:49,293 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:50:49,293 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:50:49,293 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:50:49,294 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:50:49,294 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:50:49,294 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:50:49,335 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:50:49,339 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:52:11,414 - werkzeug - INFO - [_internal.py:97] -  * Detected change in 'C:\\Users\\samar\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py', reloading
+2025-10-04 10:52:11,717 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 10:52:12,733 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 10:52:12,735 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 10:52:12,735 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 10:52:12,735 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 10:52:12,735 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 10:52:12,735 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 10:52:12,737 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 10:52:12,739 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 10:52:12,739 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 10:52:12,739 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 10:52:12,739 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 10:52:12,739 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 10:52:12,741 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 10:52:12,741 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 10:52:12,742 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 10:52:12,799 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 10:52:12,804 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 10:53:01,462 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: index
+2025-10-04 10:53:01,496 - __main__ - INFO - [app1.py:979] - [AUTOMATION] index completed in 0.0300s
+2025-10-04 10:53:01,505 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:01] "[32mGET / HTTP/1.1[0m" 302 -
+2025-10-04 10:53:01,645 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:53:01,689 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0350s
+2025-10-04 10:53:01,691 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:01] "GET /login HTTP/1.1" 200 -
+2025-10-04 10:53:02,196 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-04 10:53:24,562 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: index
+2025-10-04 10:53:24,583 - __main__ - INFO - [app1.py:979] - [AUTOMATION] index completed in 0.0045s
+2025-10-04 10:53:24,583 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:24] "[32mGET / HTTP/1.1[0m" 302 -
+2025-10-04 10:53:24,601 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:53:24,619 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0000s
+2025-10-04 10:53:24,620 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:24] "GET /login HTTP/1.1" 200 -
+2025-10-04 10:53:25,139 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-04 10:53:26,823 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:53:26,839 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0010s
+2025-10-04 10:53:26,839 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:26] "GET /login HTTP/1.1" 200 -
+2025-10-04 10:53:33,157 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:53:33,552 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.3871s
+2025-10-04 10:53:33,554 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-10-04 10:53:33,560 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 10:53:33,581 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0112s
+2025-10-04 10:53:33,582 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:33] "GET /calculator HTTP/1.1" 200 -
+2025-10-04 10:53:39,366 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: history
+2025-10-04 10:53:39,400 - __main__ - INFO - [app1.py:979] - [AUTOMATION] history completed in 0.0235s
+2025-10-04 10:53:39,400 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:39] "GET /history HTTP/1.1" 200 -
+2025-10-04 10:53:44,218 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 10:53:44,239 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0015s
+2025-10-04 10:53:44,243 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:53:44] "GET /calculator HTTP/1.1" 200 -
+2025-10-04 10:54:04,115 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 10:54:04,115 - __main__ - INFO - [app1.py:1038] - [WEB-TESTING] Validating input: '900'
+2025-10-04 10:54:04,115 - __main__ - INFO - [app1.py:1073] - [WEB-TESTING] Valid input: 900.0
+2025-10-04 10:54:04,119 - __main__ - ERROR - [app1.py:1103] - [QC] Error saving calculation: table calculations has no column named category
+2025-10-04 10:54:04,139 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0054s
+2025-10-04 10:54:04,149 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:04] "POST /calculator HTTP/1.1" 200 -
+2025-10-04 10:54:27,543 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: history
+2025-10-04 10:54:27,567 - __main__ - INFO - [app1.py:979] - [AUTOMATION] history completed in 0.0110s
+2025-10-04 10:54:27,569 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:27] "GET /history HTTP/1.1" 200 -
+2025-10-04 10:54:32,055 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: history
+2025-10-04 10:54:32,071 - __main__ - INFO - [app1.py:979] - [AUTOMATION] history completed in 0.0049s
+2025-10-04 10:54:32,073 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:32] "GET /history HTTP/1.1" 200 -
+2025-10-04 10:54:36,609 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 10:54:36,630 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0052s
+2025-10-04 10:54:36,632 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:36] "GET /calculator HTTP/1.1" 200 -
+2025-10-04 10:54:39,863 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: history
+2025-10-04 10:54:39,884 - __main__ - INFO - [app1.py:979] - [AUTOMATION] history completed in 0.0042s
+2025-10-04 10:54:39,885 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:39] "GET /history HTTP/1.1" 200 -
+2025-10-04 10:54:47,286 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 10:54:47,298 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0000s
+2025-10-04 10:54:47,303 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:47] "GET /calculator HTTP/1.1" 200 -
+2025-10-04 10:54:51,322 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:51] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-10-04 10:54:51,335 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:54:51,351 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0020s
+2025-10-04 10:54:51,351 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:51] "GET /login HTTP/1.1" 200 -
+2025-10-04 10:54:56,287 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:54:56,303 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0010s
+2025-10-04 10:54:56,303 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:56] "GET /login HTTP/1.1" 200 -
+2025-10-04 10:54:57,663 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 10:54:57,680 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0000s
+2025-10-04 10:54:57,680 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 10:54:57] "GET /login HTTP/1.1" 200 -
+2025-10-04 18:43:35,972 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 18:43:35,977 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 18:43:36,057 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-10-04 18:43:36,057 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2025-10-04 18:43:36,077 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 18:43:36,485 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 18:43:36,524 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 18:43:36,527 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 18:53:57,675 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 18:53:57,680 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 18:53:57,681 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 18:53:57,681 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 18:53:57,681 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 18:53:57,745 - werkzeug - INFO - [_internal.py:97] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-10-04 18:53:57,745 - werkzeug - INFO - [_internal.py:97] - [33mPress CTRL+C to quit[0m
+2025-10-04 18:53:57,756 - werkzeug - INFO - [_internal.py:97] -  * Restarting with watchdog (windowsapi)
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1608] - 
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1614] - 
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-04 18:53:58,073 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-04 18:53:58,078 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-04 18:53:58,078 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-04 18:53:58,103 - werkzeug - WARNING - [_internal.py:97] -  * Debugger is active!
+2025-10-04 18:53:58,108 - werkzeug - INFO - [_internal.py:97] -  * Debugger PIN: 133-032-768
+2025-10-04 18:54:53,268 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: index
+2025-10-04 18:54:53,280 - __main__ - INFO - [app1.py:979] - [AUTOMATION] index completed in 0.0020s
+2025-10-04 18:54:53,281 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 18:54:53] "[32mGET / HTTP/1.1[0m" 302 -
+2025-10-04 18:54:53,292 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 18:54:53,330 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0290s
+2025-10-04 18:54:53,331 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 18:54:53] "GET /login HTTP/1.1" 200 -
+2025-10-04 18:54:53,565 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 18:54:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-04 18:55:09,167 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 18:55:09,498 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.3273s
+2025-10-04 18:55:09,499 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 18:55:09] "POST /login HTTP/1.1" 200 -
+2025-10-04 19:02:04,567 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 19:02:04,971 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.4047s
+2025-10-04 19:02:04,971 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-10-04 19:02:04,986 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 19:02:04,998 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0067s
+2025-10-04 19:02:05,001 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:05] "GET /calculator HTTP/1.1" 200 -
+2025-10-04 19:02:07,585 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: history
+2025-10-04 19:02:07,611 - __main__ - INFO - [app1.py:979] - [AUTOMATION] history completed in 0.0212s
+2025-10-04 19:02:07,612 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:07] "GET /history HTTP/1.1" 200 -
+2025-10-04 19:02:13,615 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 19:02:13,628 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0011s
+2025-10-04 19:02:13,631 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:13] "GET /calculator HTTP/1.1" 200 -
+2025-10-04 19:02:19,073 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: calculator
+2025-10-04 19:02:19,077 - __main__ - INFO - [app1.py:1038] - [WEB-TESTING] Validating input: '300'
+2025-10-04 19:02:19,077 - __main__ - INFO - [app1.py:1073] - [WEB-TESTING] Valid input: 300.0
+2025-10-04 19:02:19,081 - __main__ - ERROR - [app1.py:1103] - [QC] Error saving calculation: table calculations has no column named category
+2025-10-04 19:02:19,086 - __main__ - INFO - [app1.py:979] - [AUTOMATION] calculator completed in 0.0084s
+2025-10-04 19:02:19,086 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:19] "POST /calculator HTTP/1.1" 200 -
+2025-10-04 19:02:22,266 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: history
+2025-10-04 19:02:22,280 - __main__ - INFO - [app1.py:979] - [AUTOMATION] history completed in 0.0068s
+2025-10-04 19:02:22,281 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:22] "GET /history HTTP/1.1" 200 -
+2025-10-04 19:02:27,195 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-10-04 19:02:27,206 - __main__ - INFO - [app1.py:962] - [AUTOMATION] Executing: login
+2025-10-04 19:02:27,214 - __main__ - INFO - [app1.py:979] - [AUTOMATION] login completed in 0.0015s
+2025-10-04 19:02:27,220 - werkzeug - INFO - [_internal.py:97] - 127.0.0.1 - - [04/Oct/2025 19:02:27] "GET /login HTTP/1.1" 200 -
+2025-10-12 18:28:46,790 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-12 18:28:46,791 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-12 18:28:46,791 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-12 18:28:46,791 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-12 18:28:46,791 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-12 18:28:46,791 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-12 18:28:46,793 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-12 18:28:46,793 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-12 18:28:46,793 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-12 18:28:46,795 - __main__ - INFO - [app1.py:1608] - 
+2025-10-12 18:28:46,795 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-12 18:28:46,800 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-12 18:28:46,806 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-12 18:28:46,809 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-12 18:28:46,810 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-12 18:28:46,818 - __main__ - INFO - [app1.py:1614] - 
+2025-10-12 18:28:46,818 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-12 18:28:46,829 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-12 18:28:46,831 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-12 18:28:46,833 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-12 18:28:46,833 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-12 18:28:46,833 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-12 18:28:46,833 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-12 18:28:46,911 - werkzeug - INFO - [_internal.py:187] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-10-12 18:28:46,912 - werkzeug - INFO - [_internal.py:187] - [33mPress CTRL+C to quit[0m
+2025-10-12 18:28:46,921 - werkzeug - INFO - [_internal.py:187] -  * Restarting with stat
+2025-10-12 18:28:47,951 - __main__ - INFO - [app1.py:1599] - ================================================================================
+2025-10-12 18:28:47,953 - __main__ - INFO - [app1.py:1600] - EcoTrack Enhanced Test Management System Started
+2025-10-12 18:28:47,955 - __main__ - INFO - [app1.py:1601] - ================================================================================
+2025-10-12 18:28:47,955 - __main__ - INFO - [app1.py:1602] - Unit 1: Test Automation Framework - ENABLED
+2025-10-12 18:28:47,955 - __main__ - INFO - [app1.py:1603] -   - Selenium Configuration: chrome
+2025-10-12 18:28:47,958 - __main__ - INFO - [app1.py:1604] -   - Cucumber BDD: ENABLED
+2025-10-12 18:28:47,958 - __main__ - INFO - [app1.py:1605] -   - SoapUI API Testing: ENABLED
+2025-10-12 18:28:47,958 - __main__ - INFO - [app1.py:1606] -   - Appium Mobile Testing: CONFIGURED
+2025-10-12 18:28:47,961 - __main__ - INFO - [app1.py:1607] -   - XP Automation Strategy: ['RED', 'GREEN', 'REFACTOR']
+2025-10-12 18:28:47,965 - __main__ - INFO - [app1.py:1608] - 
+2025-10-12 18:28:47,967 - __main__ - INFO - [app1.py:1609] - Unit 2: OO & Web-Based Testing
+2025-10-12 18:28:47,968 - __main__ - INFO - [app1.py:1610] -   - OO Testing Strategy: IMPLEMENTED
+2025-10-12 18:28:47,968 - __main__ - INFO - [app1.py:1611] -   - Integration Testing: ENABLED
+2025-10-12 18:28:47,968 - __main__ - INFO - [app1.py:1612] -   - Web Security Testing: ENABLED
+2025-10-12 18:28:47,968 - __main__ - INFO - [app1.py:1613] -   - Cross-Browser Testing: 4 browsers
+2025-10-12 18:28:47,985 - __main__ - INFO - [app1.py:1614] - 
+2025-10-12 18:28:47,987 - __main__ - INFO - [app1.py:1615] - Unit 3: Software Quality Management
+2025-10-12 18:28:47,991 - __main__ - INFO - [app1.py:1616] -   - Quality Metrics Tracking: ACTIVE
+2025-10-12 18:28:47,993 - __main__ - INFO - [app1.py:1617] -   - ISO 9126 Assessment: ENABLED
+2025-10-12 18:28:47,999 - __main__ - INFO - [app1.py:1618] -   - CMMI Maturity Level: 3
+2025-10-12 18:28:48,001 - __main__ - INFO - [app1.py:1619] -   - Six Sigma Methodology: IMPLEMENTED
+2025-10-12 18:28:48,001 - __main__ - INFO - [app1.py:1620] -   - Quality Control: ACTIVE
+2025-10-12 18:28:48,001 - __main__ - INFO - [app1.py:1621] - ================================================================================
+2025-10-12 18:28:48,046 - werkzeug - WARNING - [_internal.py:187] -  * Debugger is active!
+2025-10-12 18:28:48,086 - werkzeug - INFO - [_internal.py:187] -  * Debugger PIN: 110-728-298
